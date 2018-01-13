@@ -651,7 +651,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 490912877}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 409.26978, z: 0}
+  m_LocalPosition: {x: 0, y: 409.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1235220072}
@@ -1156,7 +1156,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_text: Jogo de Plataforma Infinito
+  m_text: Plataforma Infinita
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0d4dff9967ab30344af0da3ead61e290, type: 2}
   m_sharedMaterial: {fileID: 21310547723676190, guid: 0d4dff9967ab30344af0da3ead61e290,
@@ -1224,10 +1224,10 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 570796664}
-    characterCount: 27
+    characterCount: 19
     spriteCount: 0
-    spaceCount: 3
-    wordCount: 4
+    spaceCount: 1
+    wordCount: 2
     linkCount: 0
     lineCount: 1
     pageCount: 1
@@ -1348,7 +1348,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1023621659}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 233.76978, z: 0}
+  m_LocalPosition: {x: 0, y: 234, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1984198354}
@@ -2263,7 +2263,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_text: Jogo de Infinitas Plataformas
+  m_text: Infinitas Plataformas
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0d4dff9967ab30344af0da3ead61e290, type: 2}
   m_sharedMaterial: {fileID: 21310547723676190, guid: 0d4dff9967ab30344af0da3ead61e290,
@@ -2331,10 +2331,10 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1172055399}
-    characterCount: 29
+    characterCount: 21
     spriteCount: 0
-    spaceCount: 3
-    wordCount: 4
+    spaceCount: 1
+    wordCount: 2
     linkCount: 0
     lineCount: 1
     pageCount: 1
@@ -2696,7 +2696,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1432274408}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.000030517578, y: -54.230217, z: 0}
+  m_LocalPosition: {x: -0.000030517578, y: -53.999992, z: 0}
   m_LocalScale: {x: 1.000448, y: 1.000448, z: 1.000448}
   m_Children:
   - {fileID: 570796663}
@@ -3358,7 +3358,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1693942890}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 95.769775, z: 0}
+  m_LocalPosition: {x: 0, y: 96, z: 0}
   m_LocalScale: {x: 1.000448, y: 1.000448, z: 1.000448}
   m_Children:
   - {fileID: 1172055398}
@@ -4094,7 +4094,7 @@ RectTransform:
   m_GameObject: {fileID: 1753066189}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 90}
-  m_LocalScale: {x: 0.009770018, y: 0.009770018, z: 0.009770018}
+  m_LocalScale: {x: 0.009765625, y: 0.009765625, z: 0.009765625}
   m_Children:
   - {fileID: 607305853}
   - {fileID: 490912878}
@@ -4134,7 +4134,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1843972643}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -511.76978, z: 0}
+  m_LocalPosition: {x: 0, y: -512, z: 0}
   m_LocalScale: {x: 1.000448, y: 1.000448, z: 1.000448}
   m_Children:
   - {fileID: 1396526736}
