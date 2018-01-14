@@ -21,16 +21,16 @@ MonoBehaviour:
   HierarchyManager_OrientationManager_ShowIcon: 1
   HierarchyManager_SceneLoader_ShowIcon: 1
   HierarchyManager_UICanvas_ShowIcon: 1
-  HierarchyManager_UICanvas_ShowCanvasName: 1
+  HierarchyManager_UICanvas_ShowCanvasName: 0
   HierarchyManager_UICanvas_ShowSortingLayerNameAndOrder: 1
   HierarchyManager_UINotification_ShowIcon: 1
   HierarchyManager_UIElement_ShowIcon: 1
   HierarchyManager_UIElement_ShowElementCategory: 0
-  HierarchyManager_UIElement_ShowElementName: 1
+  HierarchyManager_UIElement_ShowElementName: 0
   HierarchyManager_UIElement_ShowSortingLayerNameAndOrder: 1
   HierarchyManager_UIButton_ShowIcon: 1
   HierarchyManager_UIButton_ShowButtonCategory: 0
-  HierarchyManager_UIButton_ShowButtonName: 1
+  HierarchyManager_UIButton_ShowButtonName: 0
   HierarchyManager_UIEffect_ShowIcon: 1
   HierarchyManager_UIEffect_ShowSortingLayerNameAndOrder: 1
   UIElement_Inspector_ShowButtonRenameGameObject: 1

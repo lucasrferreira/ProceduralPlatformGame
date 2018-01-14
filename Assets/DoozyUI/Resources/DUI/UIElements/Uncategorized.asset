@@ -16,4 +16,7 @@ MonoBehaviour:
   - Background
   - GameFooter
   - GameTitle
+  - InfiniteGame
   - MainMenu
+  - Multiplayer
+  - UncountPlatform

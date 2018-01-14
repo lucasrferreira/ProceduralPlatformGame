@@ -513,7 +513,7 @@ PlayerSettings:
   webGLUseWasm: 0
   webGLCompressionFormat: 1
   scriptingDefineSymbols:
-    1: dUI_DoozyUI;DOTWEEN_TMP
+    1: dUI_DoozyUI;DOTWEEN_TMP;dUI_TextMeshPro
     4: DOTWEEN_TMP
     7: DOTWEEN_TMP
     13: DOTWEEN_TMP
